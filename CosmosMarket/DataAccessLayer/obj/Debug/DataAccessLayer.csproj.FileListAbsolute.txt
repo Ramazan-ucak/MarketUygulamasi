@@ -1,0 +1,6 @@
+C:\Users\Ramo\source\repos\CosmosMarket\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Ramo\source\repos\CosmosMarket\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Ramo\source\repos\CosmosMarket\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ramo\source\repos\CosmosMarket\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\source\repos\CosmosMarket\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Ramo\source\repos\CosmosMarket\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
